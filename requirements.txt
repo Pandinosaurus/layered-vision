@@ -2,10 +2,10 @@ Flask==2.2.2
 mediapipe>=0.8.7.1
 mss==7.0.1
 numpy>=1.19.3,<1.22.0
-opencv-python==4.6.0.66
+opencv-python==4.7.0.68
 pafy==0.5.5
 pyfakewebcam==0.1.0
 PyYAML==6.0
 tensorflow==2.11.0
-tf-bodypix[tfjs]==0.4.1
+tf-bodypix[tfjs]==0.4.2
 youtube_dl==2021.12.17
